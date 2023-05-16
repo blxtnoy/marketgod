@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Повелитель магазинов</string>
+    <string name="text_welcome">Приветствую,\nПовелитель магазинов!</string>
+    <string name="start_button">НАЧАТЬ</string>
+    <string name="btn_compare">СРАВНИТЬ</string>
+    <string name="copy_rights">Программа является собственностью\nпользователя ВКонтакте - vk.com/cunis\nСоздатель не несет ответственность за\nприченненный вред третьим лицам.</string>
+    <string name="wait_settings">Жду данные...</string>
+    <string name="set_1_product">Данные первого продукта:</string>
+    <string name="set_2_product">Данные второго продутка:</string>
+
+    <string name="title_activity_login">Lord of the shops</string>
+
+    <string name="textView_welcome">Hello,  Master of Retail Stores!</string>
+    <string name="begin_button">Start comparison</string>
+
+    <string name="cost1_text">1-ый продукт, цена:</string>
+    <string name="cost2_text">2-ой продукт, цена:</string>
+    <string name="gramms2_text">Граммы:</string>
+    <string name="gramms1_text">Граммы:</string>
+    <string name="hint_gramms">(гр.)</string>
+    <string name="hint_cost">(₽)</string>
+
+    <string name="Oglavlenie_Activity2">Сравнение продуктов</string>
+
+    <string name="begin_sravnenie_button">сравнить</string>
+
+    // This contains only text from the text box:
+
+    <string name="money">₽</string>
+    <string name="save">Экономия:</string>
+    <string name="same">Одинаковая стоимость!</string>
+    <string name="first_better_than_2">1-ый продукт выгоднее 2-го!</string>
+    <string name="second_better_than_1">2-ой продукт выгоднее 1-го!</string>
+    <string name="cost_1st_product">Цена первого продукта за единицу грамма =</string>
+    <string name="cost_2nd_product">Цена второго продукта за единицу грамма =</string>
+    <string name="cheaper">Выгоднее покупать продукт\nза</string>
+
+    // This contains only text from the text box.
+
+    // AD banner
+    <string name="banner_ad">AD text</string>
+    // AD banner
+
+    <string name="credits">Программа является собственностью\nпользователя ВКонтакте - vk.com/cunis\nСоздатель не несет ответственность за\nприченненный вред третьим лицам.</string>
+
+
+</resources>
